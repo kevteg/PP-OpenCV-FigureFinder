@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1388713569 source:/home/keeeevin/Documentos/Proyectos personales/PP-OpenCV-FigureFinder/main.cpp
+	<iostream>
+	"engine.h"
+
+1389155448 /home/keeeevin/Documentos/Proyectos personales/PP-OpenCV-FigureFinder/engine.h
+	<iostream>
+	"opencv2/opencv.hpp"
+	"opencv2/imgproc/imgproc.hpp"
+
+1389147573 source:/home/keeeevin/Documentos/Proyectos personales/PP-OpenCV-FigureFinder/engine.cpp
+	"engine.h"
+
